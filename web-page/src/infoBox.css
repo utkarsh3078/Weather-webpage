@@ -1,0 +1,11 @@
+.info{
+    display: flex;
+    justify-content: center;
+    width: 22rem;
+    padding: 0.5rem;
+    margin-bottom: 5rem;
+}
+
+.card{
+    padding: 0 40px 0 40px;
+}

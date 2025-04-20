@@ -1,0 +1,9 @@
+.weather{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.weather h1{
+   display: flex;
+   justify-content: center;
+}

@@ -2,7 +2,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
-import "./InfoBox.css"
+import "./infoBox.css"
 
 export default function InfoBox({info}){
     const INIT_IMG = "https://images.unsplash.com/photo-1560257855-0166aa056aeb?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGJyaWdodCUyMHN1bmxpZ2h0fGVufDB8fDB8fHww"

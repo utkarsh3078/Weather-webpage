@@ -2,7 +2,7 @@ import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import { useState } from 'react';
 import { colors } from '@mui/material';
-import "./Searchbox.css";
+import "./SearchBox.css";
 
 export default function SearchBox({updateInfo}){
     let[city, setCity] = useState("");
